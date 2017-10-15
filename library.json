@@ -1,0 +1,14 @@
+{
+    "name": "Table Height Reader",
+    "keywords": "logicdata, height, table",
+    "description": "Arduino Library for reading height information from the LOGICDATA table protocol",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/svelil/tableHeightReader.git",
+      "branch": "master"
+    },
+    "version": "0.1",   
+    "frameworks": "arduino",
+    "platforms": "*"
+  }
