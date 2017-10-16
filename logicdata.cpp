@@ -57,7 +57,7 @@ unsigned char LogicData::process()
 {
   if (!checkTime())
   {
-    return;
+    return 0;
   }
 
   unsigned char currentBit = digitalRead(_pin);
